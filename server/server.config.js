@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: `/server/`,
-    bare: `/https://hideois.952768.xyz/`,
+    bare: `https://hideois.952768.xyz`,
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/server/server.handler.js',
