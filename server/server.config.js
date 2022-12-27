@@ -1,4 +1,4 @@
-self.__uv$config = {
+self.__server$config = {
     prefix: `/server/`,
     bare: `https://hideois.952768.xyz/`,
     encodeUrl: Ultraviolet.codec.xor.encode,
