@@ -6,3 +6,8 @@
 
 const HENTAPI = 'aHR0cDovL2xvY2FsaG9zdDozMDAxLw=='
 
+/**
+ * 密码设置
+ * false:表示api无效 无需部署admin，反之
+*/
+const HENTPWD = false
